@@ -3,7 +3,7 @@
 <body>
 <b>
 <?php
-print "Hello, World!";
+print "Кулити от величайшего";
 ?>
 </b>
 </body>
